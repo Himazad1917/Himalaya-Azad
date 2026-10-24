@@ -1,34 +1,34 @@
+# Himalaya Azad
+### Technical Support Engineer | Industrial IoT, Instrumentation & Measurement
 
-# Hi, I'm Himalaya Azad 👋
+I’m documenting practical knowledge across industrial sensing, instrumentation, connectivity, and measurement systems. This portfolio focuses on clear technical notes, reproducible learning labs, and carefully labelled demonstrations.
 
-### Technical Support Engineer | Industrial IoT & Instrumentation
+- **Industrial IoT:** sensor integration, temperature and relative-humidity monitoring, gateways
+- **Industrial communications:** RS485 fundamentals and Modbus RTU
+- **Measurement:** instrumentation, flue-gas analysis, combustion-measurement concepts
+- **Engineering practice:** troubleshooting workflows, diagrams, and illustrative sample data
 
-I'm building my expertise in industrial measurement, IoT sensing
-solutions, field support, and industrial communication protocols.
+## Portfolio
 
-## 🔧 Areas of Interest
+### Industrial IoT & sensor integration
+- [Industrial IoT Sensor Integration](https://github.com/Himazad1917/industrial-iot-sensor-integration) — conceptual sensor-to-gateway architecture and integration workflow
+- [RS485 & Modbus RTU Lab](https://github.com/Himazad1917/rs485-modbus-rtu-lab) — bus fundamentals, frame concepts, configuration, and troubleshooting
 
-- Industrial IoT and smart sensors
-- Temperature and Relative Humidity (T/RH) monitoring
-- RS485 communication and Modbus
-- IoT gateways and sensor integration
-- Industrial measurement technology
-- Flue-gas analysis and combustion measurement
+### Measurement & combustion
+- [Flue-Gas Analysis Fundamentals](https://github.com/Himazad1917/flue-gas-analysis-fundamentals) — general measurement principles, units, interpretation, and limitations
 
-## 📚 Currently Learning
+## Technical focus
+- **Sensors & instrumentation:** temperature, relative humidity, measurement principles, calibration concepts
+- **Connectivity:** RS485 physical layer, Modbus RTU request/response concepts, gateway data paths
+- **Measurement technology:** flue-gas parameters, combustion concepts, sampling and analyser care
+- **Documentation:** structured troubleshooting, diagrams, setup notes, and sample data
 
-- RS485 and Modbus RTU fundamentals
-- Sensor configuration and troubleshooting
-- IoT gateway connectivity
-- Technical documentation and practical projects
+## How to read these projects
+Repositories are educational documentation and learning demonstrations unless a section explicitly says otherwise. Example values are illustrative—not customer readings or evidence of field testing. Manufacturer-specific claims should be checked against the relevant official manual.
 
-## 🛠️ My Project Portfolio
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/himalaya-azad-150581282)
+- [GitHub repositories](https://github.com/Himazad1917?tab=repositories)
 
-I'll use this profile to document practical learning projects,
-communication tests, sensor integration, and technical notes.
-
-## 🤝 Let's Connect
-
-- LinkedIn: https://www.linkedin.com/in/himalaya-azad-150581282
-
-Always learning. Always building. 🚀
+---
+*Building a practical, evidence-led engineering knowledge base—one documented concept at a time.*
